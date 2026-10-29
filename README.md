@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Naveen%20Kumar%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%C2%B7%20Cloud%20%C2%B7%20DevOps%20%C2%B7%20Security&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Naveen%20Kumar%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Agentic%20AI%20%C2%B7%20Cloud%20%C2%B7%20DevOps%20%C2%B7%20Security&descSize=16&descAlignY=65" width="100%" />
 
 <div align="center">
 
@@ -34,13 +34,17 @@ class Naveen:
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,linux&theme=dark" />
 
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mongodb&theme=dark" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark" />
 
 **Agentic AI & LLMs**
 
@@ -62,20 +66,11 @@ class Naveen:
 <img src="https://cdn.simpleicons.org/pandas/8F6FD1" width="46" height="46" alt="pandas" title="pandas" />&nbsp;&nbsp;
 </p>
 
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,linux&theme=dark" />
-
-<p>
-<img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="46" height="46" alt="azuredevops" title="Azure DevOps" />&nbsp;&nbsp;
-</p>
-
 **Testing & Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,jira&theme=dark" />
 
 <p>
-<img src="https://cdn.simpleicons.org/playwright/2EAD33" width="46" height="46" alt="playwright" title="Playwright" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="46" height="46" alt="pytest" title="PyTest" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/robotframework/9CA3AF" width="46" height="46" alt="robotframework" title="Robot Framework" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/k6/7D64FF" width="46" height="46" alt="k6" title="k6" />&nbsp;&nbsp;
